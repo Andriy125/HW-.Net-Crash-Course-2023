@@ -1,1 +1,1 @@
-[Some title here](task.pdf)
+[embed]task.pdf[/embed]
