@@ -1,1 +1,1 @@
-[embed]task.pdf[/embed]
+![завдання](task.pdf)
