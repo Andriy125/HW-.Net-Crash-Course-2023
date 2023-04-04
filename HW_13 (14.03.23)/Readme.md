@@ -1,4 +1,4 @@
-Платформа Microsoft .NET і мова програмування C# 
+# Платформа Microsoft .NET і мова програмування C# 
 
 **ТЕМА**: COLLECTIONS, GENERIC COLLECTIONS
 
