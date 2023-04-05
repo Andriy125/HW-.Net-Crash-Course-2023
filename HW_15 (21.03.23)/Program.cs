@@ -17,9 +17,6 @@ class Program
             double result = calculator.Calculate(InputExpression);
             Console.Write($"{InputExpression} = {result}");
         }
-
-
-
     }
 }
 
