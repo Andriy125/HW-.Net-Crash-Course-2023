@@ -1,6 +1,6 @@
-# TOPIC: Delegates. Multicast Delegates
+**TOPIC: Delegates. Multicast Delegates**
 
-# Task 1:
+**Task 1**:
 
 Create class Calculator, using Delegates as operations.
 
